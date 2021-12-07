@@ -70,6 +70,8 @@ del s['Sutan'];
 
 <li> Flowchart </li>
 
+![gambar 9](screenshot/flowchart.png)
+
 <li> Program </li>
 
 ![gambar 4](screenshot/pratikum5.png)
